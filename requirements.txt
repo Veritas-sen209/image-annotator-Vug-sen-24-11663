@@ -1,0 +1,4 @@
+opencv2
+numpy
+tkinter
+python
